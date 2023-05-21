@@ -16,3 +16,4 @@
 |`git push --set-upstream origin <branch_name>` | pushes commits to the remote repo AND creates the branch
 |`git merge <branch_name>`                      | merges a local branch to the branch you are currently on
 |`git pull origin <branch_name>`                | merges a remote branch to the branch you are currently on
+|`git branch --delete <branch_name>`            | delete a local branch
