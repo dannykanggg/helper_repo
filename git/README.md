@@ -17,3 +17,8 @@
 |`git merge <branch_name>`                      | merges a local branch to the branch you are currently on
 |`git pull origin <branch_name>`                | merges a remote branch to the branch you are currently on
 |`git branch --delete <branch_name>`            | delete a local branch
+
+
+
+
+Extra Reference: https://medium.com/edureka/git-commands-with-example-7c5a555d14c
